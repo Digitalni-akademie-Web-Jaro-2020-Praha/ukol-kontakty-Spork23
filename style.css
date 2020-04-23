@@ -42,11 +42,16 @@ body {
 		flex-wrap: wrap;
 		margin: 10px;
 	}
+	h2 {
+		margin: 0;
+		;
+	}
 	.text {
 		display: flex;
 		flex-direction: column;
 		text-align: left;
 		padding: 10px;
+		margin-left: 10px;
 	}
 }
 
